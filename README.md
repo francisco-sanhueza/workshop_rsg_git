@@ -2,7 +2,7 @@
 
 #### Prof.: Ana J. Velez Rueda. 
 
-### Colaborador: Francisco Sanhueza Salas (IMPAM/UBA/CONICET)
+### Colaborador: Francisco Sanhueza Salas (IMPAM -UBA-CONICET)
 Clonar el repositorio haciendo:
 
 ```bash 
