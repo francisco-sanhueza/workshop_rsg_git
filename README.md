@@ -1,4 +1,4 @@
-# Worksho# Workshop RSG Git
+# Workshop# Workshop RSG Git
 
 #### Prof.: Ana J. Velez Rueda. 
 
@@ -15,5 +15,5 @@ abir el proyecto y comenzá a colaborar:
 ### entra al directorio
 cd workshop_rsg_git
 ## abrí el proyecto en tu IDE favorito
-code.
+code,
 ```
